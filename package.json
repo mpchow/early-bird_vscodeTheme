@@ -1,0 +1,22 @@
+{
+    "name": "early-bird",
+    "displayName": "early-bird",
+    "description": "blind yourself in the day",
+    "version": "0.0.1",
+    "publisher": "mpchow",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "early-bird",
+                "uiTheme": "vs",
+                "path": "./themes/early-bird-color-theme.json"
+            }
+        ]
+    }
+}
